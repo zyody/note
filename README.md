@@ -21,7 +21,7 @@ unzip setuptools-39.2.0.zip
 cd setuptools-39.2.0/  
 proxychains python27 setup.py install --user  
 
-2. pip  
+3. pip  
 proxychains wget https://files.pythonhosted.org/packages/ae/e8/2340d46ecadb1692a1e455f13f75e596d4eab3d11a57446f08259dee8f02/pip-10.0.1.tar.gz  
 tar -zxvf pip-10.0.1.tar.gz  
 cd pip-10.0.1/  
